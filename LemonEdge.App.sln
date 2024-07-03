@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonEdge.App", "LemonEdge.App.csproj", "{2C3CEE17-E713-4409-8794-758C7DE13327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3CEE17-E713-4409-8794-758C7DE13327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3CEE17-E713-4409-8794-758C7DE13327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3CEE17-E713-4409-8794-758C7DE13327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3CEE17-E713-4409-8794-758C7DE13327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D7EFE1-7E87-43C4-923E-304F42E47543}
+	EndGlobalSection
+EndGlobal
